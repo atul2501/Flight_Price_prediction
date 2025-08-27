@@ -128,7 +128,7 @@ Feel free to fork and improve the model, add UI, or expand the dataset.
 
 ## 📧 Contact
 
-For issues or questions, email: [your.email@example.com](mailto:your.email@example.com)
+For issues or questions, email: [yatul247@gmail.com](mailto:yatul247@gmail.com)
 
 ---
 
